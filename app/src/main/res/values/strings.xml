@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NotificacionProgramada</string>
+    <string name="reminder">Recordarme en 10 segundos!</string>
+</resources>
