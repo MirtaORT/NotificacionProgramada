@@ -33,7 +33,7 @@ Button btnProgramar;
                 long tenSecsMillis = 1000 * 10;
 
                 alarmManager.set(AlarmManager.RTC_WAKEUP,timeAtButtonClick + tenSecsMillis, pendingIntent);
-                
+
             }
         });
     }
